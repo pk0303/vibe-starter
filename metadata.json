@@ -1,0 +1,6 @@
+{
+  "name": "GrantFlow Desktop - Local-First Grant Management",
+  "description": "Production-grade local-first desktop application for tracking grants, application pipelines, post-award compliance reporting, and offline SQLite storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
